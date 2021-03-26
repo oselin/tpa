@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include/cxx_examples.h
+stdexcept
+-
+string
+-
+
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include/my_fraction.h
+
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/main.cpp
+iostream
+-
+my_fraction.h
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/my_fraction.h
+cxx_examples.h
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/cxx_examples.h
+
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/CxxExamples.cpp
+cxx_examples.h
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/cxx_examples.h
+cmath
+-
+iostream
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/iostream
+
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/MyFraction.cpp
+my_fraction.h
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/my_fraction.h
+iostream
+/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/iostream
+

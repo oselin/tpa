@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include\"  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/main.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/main.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include\"  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/src/MyFraction.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/MyFraction.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/MyFraction.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include\"  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/src/CxxExamples.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/CxxExamples.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/CxxExamples.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/include\"  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/src/linkedlist.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/linkedlist.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/linkedlist.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/../include\"  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/catch2Main.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/catch2Main.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/catch2Main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/../include\"  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/testMyFraction.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/testMyFraction.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/testMyFraction.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/../include\"  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/testCxxExamples.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/testCxxExamples.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/testCxxExamples.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/../include\"  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/__/src/MyFraction.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/MyFraction.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/MyFraction.cpp"
+},
+{
+  "directory": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/build/tests",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I\"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/tests/../include\"  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/__/src/CxxExamples.cpp.o -c \"/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/CxxExamples.cpp\"",
+  "file": "/mnt/c/Users/pierf/Documents/PERSONALE/UNITN/TRIENNALE/0.TERZO ANNO/SEMESTRE 2/TECNICHE DI PROGRAMMAZIONE AVANZATA/cscript/min-cmake-prj/src/CxxExamples.cpp"
+}
+]
