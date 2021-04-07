@@ -25,3 +25,5 @@ int main() {
   std::cout << "FINE PROGRAMMA!\n";  // non verrà stampato
 
 }
+
+//Hello world
